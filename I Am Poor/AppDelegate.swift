@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  I Am Poor
 //
-//  Created by Angela Yu on 24/08/2016.
-//
+//  Created by Matthew  Williams on 14/02/2019.
+//  Copyright © 2019 Matthew  Williams. All rights reserved.
 //
 
 import UIKit
@@ -14,9 +14,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-
         return true
     }
 
